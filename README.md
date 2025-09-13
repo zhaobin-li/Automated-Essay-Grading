@@ -1,6 +1,6 @@
 # Automated Essay Grading using Latent Semantic Analysis
 
-For CS 328, Computational Models of Cognition, together with Owen Szafran
+For CS 328, Computational Models of Cognition, together with Owen Szafran. Built an NLP pipeline using Latent Semantic Analysis to automate essay grading on the Kaggle Automated Essay Grading dataset.
 
 ## Abstract
 
