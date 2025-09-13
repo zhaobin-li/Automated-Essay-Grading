@@ -1,0 +1,497 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.12.16)  8 MAR 2019 21:00
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**CogSci_Template.tex
+(./CogSci_Template.tex
+LaTeX2e <2018-04-01> patch level 2
+Babel <3.18> and hyphenation patterns for 84 language(s) loaded.
+(/usr/local/texlive/2018/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/local/texlive/2018/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+) (./cogsci.sty
+Conference Style for COGSCI -- last modified October 24, 2006
+) (/usr/local/texlive/2018/texmf-dist/tex/latex/pslatex/pslatex.sty
+Package: pslatex 1996/07/24 v1.2 pslatex emulation (DPC)
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 65.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/ptmcm/m/n on input line 65.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/ptmcm/m/n on input line 65.
+LaTeX Font Info:    Redeclaring symbol font `letters' on input line 66.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/ptmcm/m/it on input line 66.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/ptmcm/m/it on input line 66.
+LaTeX Font Info:    Redeclaring symbol font `symbols' on input line 67.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/pzccm/m/n on input line 67.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/pzccm/m/n on input line 67.
+LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 68.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/psycm/m/n on input line 68.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/psycm/m/n on input line 68.
+\symbold=\mathgroup4
+\symitalic=\mathgroup5
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 74.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/ptm/bx/n on input line 74.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/ptm/bx/n on input line 74.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 75.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/ptm/m/it on input line 75.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/ptm/m/it on input line 75.
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/apacite/apacite.sty
+Package: apacite 2013/07/21 v6.03 APA citation
+\c@BibCnt=\count88
+\bibleftmargin=\skip43
+\bibindent=\skip44
+\bibparsep=\skip45
+\bibitemsep=\skip46
+\biblabelsep=\skip47
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/booktabs/booktabs.sty
+Package: booktabs 2016/04/27 v1.618033 publication quality tables
+\heavyrulewidth=\dimen105
+\lightrulewidth=\dimen106
+\cmidrulewidth=\dimen107
+\belowrulesep=\dimen108
+\belowbottomsep=\dimen109
+\aboverulesep=\dimen110
+\abovetopsep=\dimen111
+\cmidrulesep=\dimen112
+\cmidrulekern=\dimen113
+\defaultaddspace=\dimen114
+\@cmidla=\count89
+\@cmidlb=\count90
+\@aboverulesep=\dimen115
+\@belowrulesep=\dimen116
+\@thisruleclass=\count91
+\@lastruleclass=\count92
+\@thisrulewidth=\dimen117
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/import/import.sty
+Package: import 2009/03/23  v 5.1
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks15
+\symAMSa=\mathgroup6
+\symAMSb=\mathgroup7
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(/usr/local/texlive/2018/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count93
+\float@exts=\toks16
+\float@box=\box26
+\@float@everytoks=\toks17
+\@floatcapt=\box27
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/tools/verbatim.sty
+Package: verbatim 2014/10/28 v1.5q LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks18
+\verbatim@line=\toks19
+\verbatim@in@stream=\read1
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip10
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+(./CogSci_Template.aux)
+\openout1 = `CogSci_Template.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for OMS/pzccm/m/n on input line 48.
+LaTeX Font Info:    Try loading font information for OMS+pzccm on input line 48
+.
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/psnfss/omspzccm.fd
+File: omspzccm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/pzccm.
+)
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+\c@maskedRefs=\count94
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/apacite/english.apc
+File: english.apc 2013/07/21 v6.03 apacite language file
+LaTeX Info: Redefining \BPBI on input line 129.
+LaTeX Info: Redefining \BHBI on input line 130.
+)
+(/usr/local/texlive/2018/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count95
+\scratchdimen=\dimen118
+\scratchbox=\box28
+\nofMPsegments=\count96
+\nofMParguments=\count97
+\everyMPshowfont=\toks20
+\MPscratchCnt=\count98
+\MPscratchDim=\dimen119
+\MPnumerator=\count99
+\makeMPintoPDFobject=\count100
+\everyMPtoPDFconversion=\toks21
+) (/usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+
+(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)))
+(/usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+
+(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2018/01/30 v0.27 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 50.
+LaTeX Font Info:    Try loading font information for OT1+ptmcm on input line 50
+.
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/psnfss/ot1ptmcm.fd
+File: ot1ptmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ptmcm.
+)
+LaTeX Font Info:    Try loading font information for OML+ptmcm on input line 50
+.
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/psnfss/omlptmcm.fd
+File: omlptmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ptmcm.
+)
+LaTeX Font Info:    Try loading font information for OMX+psycm on input line 50
+.
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/psnfss/omxpsycm.fd
+File: omxpsycm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/psycm.
+)
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 50.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7.4> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 50.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 50.
+LaTeX Font Info:    Try loading font information for U+msa on input line 50.
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 50.
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.95> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 50.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 55.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 59.
+
+Underfull \hbox (badness 1097) in paragraph at lines 73--74
+\OT1/ptm/m/n/10 Dominant cog-ni-tive the-o-ries be-lieve that peo-ple learn a
+ []
+
+[1{/usr/local/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
+
+
+
+]
+<img/DatasetArray.png, id=10, 740.7675pt x 121.45375pt>
+File: img/DatasetArray.png Graphic file (type png)
+<use img/DatasetArray.png>
+Package pdftex.def Info: img/DatasetArray.png  used on input line 77.
+(pdftex.def)             Requested size: 505.89pt x 82.94511pt.
+
+Underfull \hbox (badness 1939) in paragraph at lines 88--89
+\OT1/ptm/m/n/10 These in-clude re-mov-ing com-monly used words ("stop-
+ []
+
+Package epstopdf Info: Source file: <img/SVD.eps>
+(epstopdf)                    date: 2019-02-18 07:46:46
+(epstopdf)                    size: 210184 bytes
+(epstopdf)             Output file: <img/SVD-eps-converted-to.pdf>
+(epstopdf)                    date: 2019-03-07 22:20:25
+(epstopdf)                    size: 30020 bytes
+(epstopdf)             Command: <repstopdf --outfile=img/SVD-eps-converted-to.p
+df img/SVD.eps>
+(epstopdf)             \includegraphics on input line 111.
+Package epstopdf Info: Output file is already uptodate.
+<img/SVD-eps-converted-to.pdf, id=12, 227.85126pt x 133.49875pt>
+File: img/SVD-eps-converted-to.pdf Graphic file (type pdf)
+<use img/SVD-eps-converted-to.pdf>
+Package pdftex.def Info: img/SVD-eps-converted-to.pdf  used on input line 111.
+(pdftex.def)             Requested size: 243.91125pt x 142.91148pt.
+[2 <./img/SVD-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <img/SVDReduced.eps>
+(epstopdf)                    date: 2019-02-18 07:46:46
+(epstopdf)                    size: 213180 bytes
+(epstopdf)             Output file: <img/SVDReduced-eps-converted-to.pdf>
+(epstopdf)                    date: 2019-03-07 22:20:25
+(epstopdf)                    size: 28254 bytes
+(epstopdf)             Command: <repstopdf --outfile=img/SVDReduced-eps-convert
+ed-to.pdf img/SVDReduced.eps>
+(epstopdf)             \includegraphics on input line 123.
+Package epstopdf Info: Output file is already uptodate.
+<img/SVDReduced-eps-converted-to.pdf, id=26, 227.85126pt x 138.5175pt>
+File: img/SVDReduced-eps-converted-to.pdf Graphic file (type pdf)
+<use img/SVDReduced-eps-converted-to.pdf>
+Package pdftex.def Info: img/SVDReduced-eps-converted-to.pdf  used on input lin
+e 123.
+(pdftex.def)             Requested size: 243.91125pt x 148.2841pt.
+ [3 <./img/DatasetArray.png> <./img/SVDReduced-eps-converted-to.pdf>]
+Underfull \hbox (badness 1072) in paragraph at lines 167--168
+ \OT1/ptm/b/n/10 Find-ing the op-ti-mal Di-men-sion-al-ity \OT1/ptm/m/n/10 For 
+each n-gram
+ []
+
+Package epstopdf Info: Source file: <img/Q1Ngram5to15.eps>
+(epstopdf)                    date: 2019-02-17 21:43:02
+(epstopdf)                    size: 25914 bytes
+(epstopdf)             Output file: <img/Q1Ngram5to15-eps-converted-to.pdf>
+(epstopdf)                    date: 2019-03-07 22:20:25
+(epstopdf)                    size: 15856 bytes
+(epstopdf)             Command: <repstopdf --outfile=img/Q1Ngram5to15-eps-conve
+rted-to.pdf img/Q1Ngram5to15.eps>
+(epstopdf)             \includegraphics on input line 171.
+Package epstopdf Info: Output file is already uptodate.
+<img/Q1Ngram5to15-eps-converted-to.pdf, id=38, 433.62pt x 289.08pt>
+File: img/Q1Ngram5to15-eps-converted-to.pdf Graphic file (type pdf)
+<use img/Q1Ngram5to15-eps-converted-to.pdf>
+Package pdftex.def Info: img/Q1Ngram5to15-eps-converted-to.pdf  used on input l
+ine 171.
+(pdftex.def)             Requested size: 243.91125pt x 162.60709pt.
+Package epstopdf Info: Source file: <img/Q1F1ByNgramsAcrossDimensions.eps>
+(epstopdf)                    date: 2019-02-23 21:09:33
+(epstopdf)                    size: 43955 bytes
+(epstopdf)             Output file: <img/Q1F1ByNgramsAcrossDimensions-eps-conve
+rted-to.pdf>
+(epstopdf)                    date: 2019-03-07 22:20:26
+(epstopdf)                    size: 18685 bytes
+(epstopdf)             Command: <repstopdf --outfile=img/Q1F1ByNgramsAcrossDime
+nsions-eps-converted-to.pdf img/Q1F1ByNgramsAcrossDimensions.eps>
+(epstopdf)             \includegraphics on input line 181.
+Package epstopdf Info: Output file is already uptodate.
+<img/Q1F1ByNgramsAcrossDimensions-eps-converted-to.pdf, id=39, 494.84875pt x 27
+4.02374pt>
+File: img/Q1F1ByNgramsAcrossDimensions-eps-converted-to.pdf Graphic file (type 
+pdf)
+<use img/Q1F1ByNgramsAcrossDimensions-eps-converted-to.pdf>
+Package pdftex.def Info: img/Q1F1ByNgramsAcrossDimensions-eps-converted-to.pdf 
+ used on input line 181.
+(pdftex.def)             Requested size: 243.91125pt x 135.06725pt.
+Package epstopdf Info: Source file: <img/Q1OptimumDimensions.eps>
+(epstopdf)                    date: 2019-02-23 18:12:03
+(epstopdf)                    size: 31602 bytes
+(epstopdf)             Output file: <img/Q1OptimumDimensions-eps-converted-to.p
+df>
+(epstopdf)                    date: 2019-03-07 22:20:26
+(epstopdf)                    size: 15909 bytes
+(epstopdf)             Command: <repstopdf --outfile=img/Q1OptimumDimensions-ep
+s-converted-to.pdf img/Q1OptimumDimensions.eps>
+(epstopdf)             \includegraphics on input line 191.
+Package epstopdf Info: Output file is already uptodate.
+<img/Q1OptimumDimensions-eps-converted-to.pdf, id=40, 390.45876pt x 298.11375pt
+>
+File: img/Q1OptimumDimensions-eps-converted-to.pdf Graphic file (type pdf)
+<use img/Q1OptimumDimensions-eps-converted-to.pdf>
+Package pdftex.def Info: img/Q1OptimumDimensions-eps-converted-to.pdf  used on 
+input line 191.
+(pdftex.def)             Requested size: 243.91125pt x 186.22511pt.
+Package epstopdf Info: Source file: <img/OptimumDimensions.eps>
+(epstopdf)                    date: 2019-03-07 20:10:47
+(epstopdf)                    size: 22302 bytes
+(epstopdf)             Output file: <img/OptimumDimensions-eps-converted-to.pdf
+>
+(epstopdf)                    date: 2019-03-07 22:20:27
+(epstopdf)                    size: 12708 bytes
+(epstopdf)             Command: <repstopdf --outfile=img/OptimumDimensions-eps-
+converted-to.pdf img/OptimumDimensions.eps>
+(epstopdf)             \includegraphics on input line 204.
+Package epstopdf Info: Output file is already uptodate.
+<img/OptimumDimensions-eps-converted-to.pdf, id=41, 396.48125pt x 272.01625pt>
+File: img/OptimumDimensions-eps-converted-to.pdf Graphic file (type pdf)
+<use img/OptimumDimensions-eps-converted-to.pdf>
+Package pdftex.def Info: img/OptimumDimensions-eps-converted-to.pdf  used on in
+put line 204.
+(pdftex.def)             Requested size: 243.91125pt x 167.34503pt.
+[4 <./img/Q1Ngram5to15-eps-converted-to.pdf> <./img/Q1F1ByNgramsAcrossDimension
+s-eps-converted-to.pdf>]
+Underfull \vbox (badness 2065) has occurred while \output is active []
+
+Package epstopdf Info: Source file: <img/Q1F1ByNgrams.eps>
+(epstopdf)                    date: 2019-03-07 20:14:28
+(epstopdf)                    size: 28646 bytes
+(epstopdf)             Output file: <img/Q1F1ByNgrams-eps-converted-to.pdf>
+(epstopdf)                    date: 2019-03-07 22:20:27
+(epstopdf)                    size: 13951 bytes
+(epstopdf)             Command: <repstopdf --outfile=img/Q1F1ByNgrams-eps-conve
+rted-to.pdf img/Q1F1ByNgrams.eps>
+(epstopdf)             \includegraphics on input line 218.
+Package epstopdf Info: Output file is already uptodate.
+<img/Q1F1ByNgrams-eps-converted-to.pdf, id=123, 394.47375pt x 298.11375pt>
+File: img/Q1F1ByNgrams-eps-converted-to.pdf Graphic file (type pdf)
+<use img/Q1F1ByNgrams-eps-converted-to.pdf>
+Package pdftex.def Info: img/Q1F1ByNgrams-eps-converted-to.pdf  used on input l
+ine 218.
+(pdftex.def)             Requested size: 243.91125pt x 184.32823pt.
+Package epstopdf Info: Source file: <img/F1ByQuestions.eps>
+(epstopdf)                    date: 2019-03-07 20:27:39
+(epstopdf)                    size: 27820 bytes
+(epstopdf)             Output file: <img/F1ByQuestions-eps-converted-to.pdf>
+(epstopdf)                    date: 2019-03-07 22:20:27
+(epstopdf)                    size: 15813 bytes
+(epstopdf)             Command: <repstopdf --outfile=img/F1ByQuestions-eps-conv
+erted-to.pdf img/F1ByQuestions.eps>
+(epstopdf)             \includegraphics on input line 232.
+Package epstopdf Info: Output file is already uptodate.
+<img/F1ByQuestions-eps-converted-to.pdf, id=124, 388.45125pt x 294.09875pt>
+File: img/F1ByQuestions-eps-converted-to.pdf Graphic file (type pdf)
+<use img/F1ByQuestions-eps-converted-to.pdf>
+Package pdftex.def Info: img/F1ByQuestions-eps-converted-to.pdf  used on input 
+line 232.
+(pdftex.def)             Requested size: 243.91125pt x 184.66838pt.
+
+Underfull \vbox (badness 4291) has occurred while \output is active []
+
+ [5 <./img/Q1OptimumDimensions-eps-converted-to.pdf> <./img/OptimumDimensions-e
+ps-converted-to.pdf> <./img/Q1F1ByNgrams-eps-converted-to.pdf>] (./optimized_re
+sults.tex)
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+(./CogSci_Template.bbl
+Underfull \hbox (badness 7667) in paragraph at lines 14--27
+[]\OT1/ptm/m/n/10 Educational Test-ing Ser-vice.  (2019).  \OT1/ptm/m/it/10 ETS
+ Re-
+ []
+
+[6 <./img/F1ByQuestions-eps-converted-to.pdf>]) [7
+
+] (./CogSci_Template.aux)
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 2729 strings out of 492649
+ 39031 string characters out of 6129621
+ 104829 words of memory out of 5000000
+ 6524 multiletter control sequences out of 15000+600000
+ 32926 words of font info for 68 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 41i,9n,27p,1600b,298s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
+exlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/te
+xlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texl
+ive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texli
+ve/2018/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/local/t
+exlive/2018/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/local/texlive/2
+018/texmf-dist/fonts/type1/urw/symbol/usyr.pfb></usr/local/texlive/2018/texmf-d
+ist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2018/texmf-dist/fonts/
+type1/urw/times/utmr8a.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/urw/
+times/utmri8a.pfb>
+Output written on CogSci_Template.pdf (7 pages, 317949 bytes).
+PDF statistics:
+ 302 PDF objects out of 1000 (max. 8388607)
+ 75 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 46 words of extra memory for PDF output out of 10000 (max. 10000000)
+
